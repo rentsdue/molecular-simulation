@@ -2,3 +2,6 @@ mdtraj
 numpy
 matplotlib
 seaborn
+scikit-learn
+statsmodels
+scipy
